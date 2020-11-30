@@ -1,0 +1,1 @@
+Yatube is a social network for bloggers
