@@ -1,1 +1,3 @@
-Yatube is a social network for bloggers
+Social network for bloggers
+
+Create new post!
