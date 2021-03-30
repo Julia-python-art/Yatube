@@ -16,6 +16,8 @@
 ---
 
 ### Технологии
+- Python
+- Django
 - HTML-шаблоны
 - Generic views
 - Эмуляция электронной почты: движок filebased.EmailBackend
