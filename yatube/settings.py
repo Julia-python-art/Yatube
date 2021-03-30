@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'q&h63-e#r!qrr&7)y8(va9z#z_osnz&uryczgd!i#o$f6kgx^_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 # перечень адресов, с которых серверу разрешено принимать запросы
